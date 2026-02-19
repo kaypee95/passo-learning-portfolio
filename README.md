@@ -14,6 +14,7 @@ In Week 1, I learned how to use Git to track changes in a project. I created a P
 
 ## Week 2 Summary
 In Week 2, I am learning how to use GitHub, manage remote repositories, and understand how databases work.
+i am also learning how to make commits in Github.
 
 ## Goals
 - Become confident using Git and GitHub
