@@ -1,7 +1,7 @@
 # PASSO Learning Portfolio
 
 ## About Me
-My name is Precious Wokama Jnr. I am learning software development and Git version control as part of the PASSO program.
+My name is Precious Wokama Jnr. I am learning software development and Git version control as part of the PASSO program. I am confident that i would have gained mastery by the end of this project.
 
 ## What I'm Learning
 - Command line basics
