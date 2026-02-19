@@ -19,3 +19,4 @@ In Week 2, I am learning how to use GitHub, manage remote repositories, and unde
 - Become confident using Git and GitHub
 - Learn SQL and database design
 - Build real-world projects
+- Learn how to collaborate
